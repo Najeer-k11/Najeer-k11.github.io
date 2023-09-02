@@ -67,7 +67,6 @@ li a:hover{
 }
 
 #banner .bannerleft {
-    margin-top: 20px;
     width: 30%;
 }
 
@@ -80,13 +79,11 @@ li a:hover{
 #banner .bannerright{
     width: 50%;
     display: flex;
-    margin-top: 30px;
     align-items: center;
     justify-content: center;
     height: 100%;
 }
 #banner .bannerright img{
-    margin-top: 60px;
     object-fit: cover;
     width: 70%;
     height: 70%;
